@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "827380862810",
+    "firebase_url": "https://rnchallenge-8f79c.firebaseio.com",
+    "project_id": "rnchallenge-8f79c",
+    "storage_bucket": "rnchallenge-8f79c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827380862810:android:312018e04711e89d8aad63",
+        "android_client_info": {
+          "package_name": "com.rnchallenge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "827380862810-5jn2geifrbbjtg0l9d6p8ng7m0sa7qsp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVtx4_04tMMix8y2p4hktpM4HDT6NdIcI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "827380862810-5jn2geifrbbjtg0l9d6p8ng7m0sa7qsp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "827380862810-joilqe95os7b1ct3s9egjj0c96l3h81u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.gurkanbulut.RNChallenge"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
